@@ -1,1 +1,2 @@
 hello, theres bug in tour code : 
+i add them in Function1 and Function2
